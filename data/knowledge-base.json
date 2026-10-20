@@ -1,0 +1,35 @@
+{
+  "brand": {
+    "name": "Xuân Hoa Xe Đầu Kéo",
+    "shortName": "Xuân Hoa",
+    "slogan": "Đại Lý Mua Bán Xe Đầu Kéo & Sơ Mi Rơ Mooc Uy Tín Số 1 Dĩ An - Bình Dương",
+    "address": "Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",
+    "area": "Gần Ngã tư Chiêu Liêu & Trục Mỹ Phước - Tân Vạn / ĐT743, Dĩ An, Bình Dương",
+    "hotline": "0908 555 678",
+    "phone": "0908 555 678",
+    "zalo": "0908555678",
+    "website": "https://xedaukeo.life",
+    "domain": "xedaukeo.life",
+    "mapUrl": "https://maps.app.goo.gl/GX7xAwg86espg75CA",
+    "coordinates": {
+      "lat": 10.9275709,
+      "lng": 106.7641881
+    },
+    "openingHours": "07:00 - 19:00 hàng ngày (Kể cả Thứ 7 và Chủ Nhật, hỗ trợ cứu hộ & tư vấn kỹ thuật 24/7)",
+    "description": "Xuân Hoa Xe Đầu Kéo là tổng đại lý và bãi xe chuyên mua bán, ký gửi, trao đổi các dòng xe đầu kéo Mỹ (Freightliner, International), xe đầu kéo Trung Quốc (Chenglong, Howo Sitrak, Shacman), xe đầu kéo Hàn Quốc (Hyundai Xcient) cùng hệ thống Sơ mi Rơ mooc chính hãng (Tân Thanh, CIMC, Doosung). Tọa lạc tại trung tâm logistics Dĩ An, Bình Dương với diện tích bãi rộng hàng ngàn m2, xe sẵn giao ngay, hỗ trợ vay ngân hàng tới 80% giá trị xe, lãi suất cực ưu đãi."
+  },
+  "commitments": [
+    "100% Xe nguồn gốc minh bạch, pháp lý sạch, bao rút hồ sơ gốc toàn quốc",
+    "Bảo hành máy, số, cầu từ 6 - 12 tháng tại xưởng dịch vụ kỹ thuật Xuân Hoa",
+    "Hỗ trợ mua xe trả góp qua ngân hàng 70% - 80% giá trị, không cần chứng minh thu nhập phức tạp",
+    "Thu mua xe đầu kéo & mooc cũ giá cao, đổi xe mới bù trừ linh hoạt trong ngày",
+    "Cung cấp phụ tùng mâm kéo, lốp xe, lọc nhớt chính hãng giá sỉ",
+    "Đội ngũ kỹ thuật viên chuyên xử lý khí thải và nạp map tiết kiệm nhiên liệu chuyên sâu"
+  ],
+  "loanPolicy": {
+    "maxRate": "80%",
+    "duration": "12 - 60 tháng",
+    "interestRate": "8.5% - 9.5%/năm",
+    "procedures": "Chỉ cần CCCD + Sổ hộ khẩu/Đăng ký kết hôn. Doanh nghiệp cần Giấy phép ĐKKD và báo cáo thuế 6 tháng gần nhất. Duyệt hồ sơ trong 24 giờ."
+  }
+}
